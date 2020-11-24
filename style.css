@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(
+    to right,
+    #1a2980,
+    #26d0ce
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+canvas {
+  display: block;
+  margin: auto;
+  margin-top: 300px;
+}
